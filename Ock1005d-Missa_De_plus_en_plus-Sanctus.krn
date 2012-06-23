@@ -12,9 +12,9 @@
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
 *clefF4	*clefGv2	*clefGv2	*clefG2
-*k[]	*k[]	*k[]	*k[]
 *>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]	*>[A,B,C,D,E,C]
 *>A	*>A	*>A	*>A
+*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(C.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
@@ -348,6 +348,9 @@
 *>B	*>B	*>B	*>B
 !!section:  Pleni sunt celi
 !!!OMD: Pleni sunt celi
+*k[]	*k[]	*k[]	*k[]
+*M3/1	*M3/1	*M3/1	*M3/1
+*met(O)	*met(C.)	*met(O)	*met(O)
 1r	0.r	2.G/	1g
 .	.	4A/	.
 2r	.	2B\	2d/
@@ -519,10 +522,9 @@
 4GG/	.	.	2d/
 2AA/	.	.	.
 .	.	.	4c/
-2GG/	.	.	4B/
+2.GG/	.	.	4B/
 .	.	.	2d/
-2.C/	.	.	.
-.	.	.	4c/
+2C/	.	.	4c/
 .	.	.	2A/
 [4D\	.	.	.
 =73	=73	=73	=73
@@ -607,6 +609,7 @@
 *>C	*>C	*>C	*>C
 !!section: Osanna
 !!!OMD: Osanna
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 [0C	[0c	[0e	[0g
@@ -818,6 +821,7 @@
 *>D	*>D	*>D	*>D
 !!section: Benedictus
 !!!OMD: Benedictus
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 0r	[0c	0r	[0g
@@ -917,6 +921,7 @@
 *>E	*>E	*>E	*>E
 !!section: Qui venit
 !!!OMD: Qui venit
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 0G	0r	0r	0r
