@@ -8,14 +8,14 @@
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
-*I"Contra	*I"Tenor	*I"Superius
-*I'C	*I'T	*I'S
+*I"Contra	*I"Tenor	*I"Discantus
+*I'C	*I'T	*I'D
 *clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)
 =1-	=1-	=1-
-!!LO:TX:X=-40:Z=10:t=Form&colon; rondeau
+!	!	!LO:TX:X=-40:Z=16:t=Form&colon; rondeau
 1r	1r	1r
 1r	1r	1r
 2.F/	1f	1f
@@ -225,8 +225,8 @@
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
 !!!ENC:	Chris Gage 06-25-2012
-!!!END:	2012/06/25/
+!!!END:	2012/06/29/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/06/27/
-!!!ONB:	Translated from MusicXML and edited on 2012/06/27/ by Craig Sapp
+!!!EEV:	2012/07/16/
+!!!ONB:	Translated from MusicXML and edited on 2012/07/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,100Q16
