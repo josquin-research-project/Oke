@@ -396,12 +396,12 @@
 *>B	*>B	*>B
 *clefF4	*clefGv2	*clefG2
 !	!	!keysig should be *K[B-]
-*k[b-]	*k[b-]	*k[b-]
+*k[b-]	*k[b-]	*k[]
 *M2/1	*M2/1	*M2/1
 *met(C)	*met(C)	*met(C)
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
-!	!	!LO:TX:X=-40:Z=6:t=[D&colon; key signature flat on B3]
+!	!	!LO:TX:X=-40:Z=6:t=[key signature flat on B3 only]
 0r	1c	1c
 .	2c\	2c/
 .	2B-\	2d/

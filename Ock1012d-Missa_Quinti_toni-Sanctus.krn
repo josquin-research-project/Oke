@@ -25,7 +25,7 @@
 =1-	=1-	=1-
 !!section: Sanctus
 !!!OMD: Sanctus
-!	!	!LO:TX:Z=22:t=[this section&colon; D flat signature is on the B below middle C only. Can this be done?]
+!	!	!LO:TX:X=-40:Z=6:t=[key signature flat on B3 only]
 1F	0F	1.f
 1D	.	.
 .	.	2d/
@@ -326,7 +326,7 @@
 *met(C)	*met(C)	*met(C)
 !!section: Pleni
 !!!OMD: Pleni
-!	!	!LO:TX:Z=7:t=[this section&colon; D flat signature is on the B below middle C only. Can this be done?]
+!	!	!LO:TX:X=-40:Z=6:t=[key signature flat on B3 only]
 0r	1c	0r
 .	2B-\	.
 .	[2c\	.
@@ -528,7 +528,7 @@
 *met(C)	*met(C)	*met(C)
 !!section: Osanna
 !!!OMD: Osanna
-!	!	!LO:TX:Z=22:t=[this section&colon; D flat signature is on the B below middle C only. Can this be done?]
+!	!	!LO:TX:X=-40:Z=6:t=[key signature flat on B3 only]
 1FF	0c	0a
 1AA	.	.
 =88	=88	=88
@@ -695,7 +695,7 @@
 *met(C)	*met(C)	*met(C)
 !!section: Benedictus
 !!!OMD: Benedictus
-!	!	!LO:TX:Z=15:t=[this section&colon; D flat signature is on the B below middle C only. Can this be done?]
+!	!	!LO:TX:X=-40:Z=6:t=[key signature flat on B3 only]
 0FF	[0F	0r
 =123	=123	=123
 1.BB-	0F]	0r
@@ -939,7 +939,7 @@
 .	.	2e/
 1FFl	1Fl	1fl
 !!LO:TX:i:Y=40:rj:t=Osanna ut supra
-=	=	=
+=||	=||	=||
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
