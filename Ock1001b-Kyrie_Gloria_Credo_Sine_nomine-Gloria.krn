@@ -1,6 +1,6 @@
 !!!COM:	Johannes Ockeghem
 !!!CDT:	~1425-1497/02/06
-!!!OPR:	Kyrie/Gloria/Credo Sine nomine
+!!!OPR:	Kyrie-Gloria-Credo Sine nomine
 !!!OTL:	Gloria
 !!!AGN:	Mass; Gloria
 !!!SCT:	Ock1001b
@@ -9,7 +9,7 @@
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
-*I"Bassus	*I"Tenor II	*I"Tenor	*I"Altus	*I"Superius
+*I"Bassus	*I"Tenor2	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'T	*I'A	*I'S
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]

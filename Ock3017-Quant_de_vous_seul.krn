@@ -114,7 +114,8 @@
 .	2G/	.
 .	.	4a/
 =19	=19	=19
-1D	2A/	0f
+!fermata enclosed in brackets	!fermata enclosed in brackets	!fermata enclosed in brackets
+1D;	2A/;	0f;
 .	2A/	.
 1d	2.B-i\	.
 .	4A/	.
