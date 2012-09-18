@@ -5,7 +5,7 @@
 !!!SCT:	Ock3015
 !!!SCA:	Ock3015
 !!!voices:	3
-**kern	**silbe	**kern	**silbe	**kern	**silbe
+**kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
 *I"1	*	*I"2	*	*I"3	*
@@ -275,7 +275,7 @@
 .	.	.	.	2f#i/	-ge-
 =35	=35	=35	=35	=35	=35
 !	!	!LO:N:vis=2	!	!LO:N:vis=1	!
-0dl	-reux.	0G;l	-reux.	0g;l	.
+0dl	-reux.	0G;l	-reux.	0g;l	-reux.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation

@@ -194,7 +194,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 !!section: Quien vos pudiera servir
-!!!OMD: Quien vos pudiera servir
+!!!OMD: &iquest;Quien vos pudiera servir
 1r	0.r	1r	0.r
 1r	.	1r	.
 1D	.	1F	.
@@ -333,4 +333,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/08/16/
 !!!ONB:	Translated from MusicXML and edited on 2012/08/16/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v85,100,85,120Q16
