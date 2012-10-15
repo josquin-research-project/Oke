@@ -3,7 +3,7 @@
 !!!OPR:	Requiem
 !!!ONM:	2
 !!!OTL:	Kyrie
-!!!AGN:	Requiem; Kyrie
+!!!AGN:	Mass; Requiem; Kyrie
 !!!SCT:	Ock1013b
 !!!SCA:	Ock1013b
 !!!voices:	5
@@ -18,6 +18,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!incipit: 6
 !!section: Kyrie I/III
 !!!OMD: Kyrie I/III
 =1-	=1-	=1-	=1-	=1-
@@ -523,4 +524,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/10/13/
 !!!ONB:	Translated from MusicXML and edited on 2012/10/13/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{ .}@{OTL}^C^@{COM}^i2I150v85,85,85,85,100Q16

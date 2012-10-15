@@ -3,7 +3,7 @@
 !!!OPR:	Requiem
 !!!ONM:	4
 !!!OTL:	Tract Sicut cervus
-!!!AGN:	Requiem; Tract
+!!!AGN:	Mass; Requiem; Tract
 !!!SCT:	Ock1013d
 !!!SCA:	Ock1013d
 !!!voices:	5
@@ -17,7 +17,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
-*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*met(O)	*met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-	=1-
 0.r	0.r	0.r	1g	1g
 .	.	.	1g	1g
@@ -1019,4 +1019,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/10/13/
 !!!ONB:	Translated from MusicXML and edited on 2012/10/13/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{ .}@{OTL}^C^@{COM}^i2I150v85,85,85,85,100Q16
