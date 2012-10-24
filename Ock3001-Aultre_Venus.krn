@@ -114,9 +114,9 @@
 2r	1G	1b-i
 2d\	.	.
 2c\	1r	2a/
-2B-i\	.	[2b-\
+2B-i\	.	[2b-i\
 =21	=21	=21
-2G/	4.G/	2b-\]
+2G/	4.G/	2b-i\]
 .	8A/	.
 4F/	4B-\	4a/
 4E/	4c\	4g/
@@ -213,4 +213,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/07/16/
 !!!ONB:	Translated from MusicXML and edited on 2012/07/16/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v80,90,120Q16
