@@ -1,4 +1,6 @@
-!!!COA:	Johannes Ockeghem
+!!!COA1:	Ockeghem, Johannes
+!!!COA2:	Martini, Johannes
+!!!COA3:	Malcort
 !!!CDT:	~1425-1497/02/06
 !!!OTL:	Malheur me bat
 !!!AGN:	Chanson
@@ -340,12 +342,11 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC:	Chris Gage 06-26-2012
 !!!END:	2012/08/10/
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/04/27/
 !!attribution-level@Ock: 4 (doubtful)
+!!attribution-level@Mar: 4 (doubtful)
 !!!ONB:	Translated from MusicXML and edited on 2012/08/13/ by Craig Sapp
-!!muse2ps: C^Malcort/Ockeghem?^i2I150v95,95,160Q16c105
+!!muse2ps: C^Malcort/Ockeghem?/Martini?^i2I150v95,95,150Q16c105
