@@ -148,11 +148,11 @@
 0AA	-de-	0A	-de-	1E	-de-	1e	corps	-rez	luy	.	.	.
 .	.	.	.	1F	.	1c	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-[0GG	-mi-	[0B-i	-mi-	3%4G	-mi-	0d	.	.	.	.	.	.
-.	.	.	.	[3%2D	.	.	.	.	.	.	.	.
+[0GG	-mi-	[0B-i	-mi-	3%4GV	-mi-	0d	.	.	.	.	.	.
+.	.	.	.	[3%2DZ	.	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-0GG]	.	0B-]	.	3%2D	.	0d	est	hom-	soit	.	.	.
-.	.	.	.	3%4G	.	.	.	.	.	.	.	.
+0GG]	.	0B-]	.	3%2DV	.	0d	est	hom-	soit	.	.	.
+.	.	.	.	3%4GZ	.	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 0AA	-sti	0A	-sti	[0E	.	1.c	plaint	-mes	en	.	.	.
 .	.	.	.	.	.	2d	.	.	.	.	.	.
@@ -283,4 +283,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2018/07/23/
 !!!ONB:	Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
-!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v75,75,75,110Q16z18l2850t75
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I175v85,75,75,110Q16z18l2800t75
