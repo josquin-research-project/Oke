@@ -20,10 +20,10 @@
 !	!	!	!	!	!	!LO:TX:Z=12:t=Virelai	!	!
 1.F	Ma	In-	0.f	Ma	In-	0cc	Ma	In-
 2G/	.	.	.	.	.	.	.	.
-1A	.	-ces-	.	.	.	1a	mais-	-ces-
+1A	mais-	-ces-	.	.	.	1a	mais-	-ces-
 =2	=	=	=2	=2	=2	=2	=2	=2
-1.B-	mais-	-sam-	1d	mais-	-ces-	1.dd	-tres-	-sam-
-.	-tres-	.	1.g	-tres-	-sam-	.	.	.
+1.B-	-tres-	-sam-	1d	mais-	-ces-	1.dd	-tres-	-sam-
+.	.	.	1.g	-tres-	-sam-	.	.	.
 2G/	.	.	.	.	.	2b-\	.	.
 1G	-se	-ment	.	.	.	2.b-\	-se	-ment
 .	.	.	2e\	.	-ment	.	.	.
@@ -243,8 +243,8 @@
 .	.	.	[2b-\	my-	-my-	2dd\	.	.
 =32	=	=	=32	=32	=32	=32	=32	=32
 2G/	my-	de-	2b-\]	.	.	1gg	my-	-my-
-2c\	.	-my-	1a	.	.	.	.	.
-2d\	.	.	.	.	.	1ff	.	.
+2c\	.	.	1a	.	.	.	.	.
+2d\	.	-my-	.	.	.	1ff	.	.
 2B-\	.	.	1g	.	.	.	.	.
 2c\	.	.	.	.	.	2ee\	.	.
 [2d\	.	.	2f\	.	.	[2dd\	.	.
@@ -372,13 +372,13 @@
 =66	=	=	=66	=66	=66	=66	=66	=66
 1e]	.	.	0A	-san-	-san-	2cc\]	.	.
 .	.	.	.	.	.	2a/	.	.
-1c	-san-	-san-	.	.	.	[1a	.	.
+1c	.	.	.	.	.	[1a	.	.
 =67	=	=	=67	=67	=67	=67	=67	=67
-0d	.	.	0B	.	.	1a]	.	.
+0d	-san-	-san-	0B	.	.	1a]	.	.
 .	.	.	.	.	.	1g#i	.	.
 =68	=	=	=68	=68	=68	=68	=68	=68
 0el	-ce.	-ce.	0Al	-ce.	-ce.	0al	-ce.	-ce.
-==	=	=	==	==	==	==	==	==
+==:|!	=:|!	=:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
