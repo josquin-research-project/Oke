@@ -16,7 +16,7 @@
 *met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
 =1-	=1-	=	=	=1-	=1-	=	=	=1-	=1-	=	=
 !!LO:TX:X=-60:Z=8:t=Form: rondeau
-!!LO:TX:X=-34:Z=42:t=Only the refrain text is extant; completion by Fabrice Fitch
+!!LO:TX:X=-60:Z=32:t=Only the refrain text is extant; completion by Fabrice Fitch
 0BB-	Se	Je	Que	0B-	Se	Je	Que	0f	Se	Je	Que
 =2	=2	=	=	=2	=2	=	=	=2	=2	=	=
 1BB-	vos-	cogn-	si	1B-	vos-	cogn-	si	1d	vos-	cogn-	si
@@ -230,7 +230,7 @@
 !!!RDF**kern: N = signum congruentiae
 !!!ENC:	Jesse Rodin 17 April 2018
 !!!END:	2018/04/17/
-!!!EED:	Jesse Rodin, with thanks to (and based on an ed. by) Fabrice Fitch
+!!!EED:	Jesse Rodin, with thanks to Fabrice Fitch
 !!!EEV:	2018/07/23/
 !!!ONB:	Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
-!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v105,105,150Q16z18l2550t120
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v90,90,140Q16z18l2550t120

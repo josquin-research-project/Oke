@@ -15,8 +15,8 @@
 *M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
 *met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
 =1-	=1-	=	=	=1-	=1-	=	=	=1-	=1-	=	=
-!!LO:TX:X=-34:Z=16:t=Form&colon; rondeau
-!!LO:TX:X=-34:Z=42:t=Only the refrain text is extant; completion by Fabrice Fitch
+!!LO:TX:X=-34:Z=12:t=Form&colon; rondeau
+!!LO:TX:X=-34:Z=32:t=Only the refrain text is extant; completion by Fabrice Fitch
 0GG	Bai-	Ja	Si	0G	Bai-	Ja	Si	0r	.	.	.
 =2	=2	=	=	=2	=2	=	=	=2	=2	=	=
 1.D	-sies	nul-	vous	1.B-	-sies	nul-	vous	0r	.	.	.
@@ -139,7 +139,7 @@
 .	.	.	.	.	.	.	.	4a/	.	.	.
 .	.	.	.	.	.	.	.	4g/	.	.	.
 =28	=28	=	=	=28	=28	=	=	=28	=28	=	=
-0DN	-fu-	ju-	-lu-	2.d\N	-fu-	ju-	-lu-	[0f#N	-ge,	-ge,	-ge,
+0DN	-fu-	ju-	-lu-	2.d\N	-fu-	ju-	-lu-	[0f#N	-ge,	-ge,&	-ge,
 .	.	.	.	4c\	.	.	.	.	.	.	.
 .	.	.	.	2A/	.	.	.	.	.	.	.
 .	.	.	.	2B-\	.	.	.	.	.	.	.
@@ -161,7 +161,7 @@
 .	.	.	.	1A	.	.	.	.	.	.	.
 2F#i\	.	.	.	.	.	.	.	.	.	.	.
 =32	=32	=	=	=32	=32	=	=	=32	=32	=	=
-0G	-ge,	-ge,	-ge,	0G	-ge,	-ge,	-ge,	0b-	Puis	.	Car
+0G	-ge,	-ge,&	-ge,	0G	-ge,	-ge,&	-ge,	0b-	Puis	.	Car
 =33	=33	=	=	=33	=33	=	=	=33	=33	=	=
 1D	.	.	.	1r	.	.	.	1b-	que	.	nul
 1D	Puis	.	Car	1F	Puis	.	Car	1a	je	.	ne
@@ -300,4 +300,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2018/01/18/
 !!!ONB:	Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v95,95,120z18c140l2750
+!!muse2ps: C^@{COM}^i2I150v95,95,120z18c140l2650
