@@ -244,9 +244,9 @@
 .	.	1c	mon	.	.
 .	.	2A	en-	2f	.
 =47	=47	=47	=47	=47	=47
-1D	-ce	2B-	-fan-	1f	-ce,
+1D	-ce	2B-	-fan-	1f	-ce;
 .	.	2A	.	.	.
-1D	que	[1d	-ce,	1r	.
+1D	que	[1d	-ce;	1r	.
 =48	=48	=48	=48	=48	=48
 0BB-	suis	1d]	.	1f	Point
 .	.	1r	.	1g	.
@@ -419,11 +419,11 @@
 1D	fault	2A	de	2a	.
 .	.	[2B-	.	2f	.
 =76	=76	=76	=76	=76	=76
-1E	que	2B-]	.	1g	la
+1E	que	2B-]	.	1g	l&agrave;
 .	.	2c	.	.	.
 1F	je	1A	.	1cc	ja
 =77	=77	=77	=77	=77	=77
-1G	.	1G	la	1b-	ne
+1G	.	1G	l&agrave;	1b-	ne
 1A	.	2r	.	2.a	.
 .	.	2F	ja	.	.
 .	.	.	.	4f	.
