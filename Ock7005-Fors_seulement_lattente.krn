@@ -1,9 +1,9 @@
 !!!COM:	Ockeghem, Johannes
 !!!CDT:	~1425-1497/02/06
-!!!OTL:	Fors seulement lattente
+!!!OTL:	Fors seulement l'attente
 !!!AGN:	Song; Chanson
-!!!SCT:	Ock3005
-!!!SCA:	Ock3005
+!!!SCT:	Ock7005
+!!!SCA:	Ock7005
 !!!voices:	3
 !!!ONB:	The order and naming of the voices is correct.
 **kern	**text	**kern	**text	**kern	**text
@@ -323,10 +323,10 @@
 .	.	4g/	.	.	.
 .	.	4f/	.	.	.
 =74	=74	=74	=74	=74	=74
-0c]	tel-	1e	.	0r	.
-.	.	1e	tel-	.	.
+0c]	tel-le-	1e	tel-	0r	.
+.	.	1e	-le-	.	.
 =75	=75	=75	=75	=75	=75
-1e	-lement	1g	-lement	0r	.
+1e	-ment	1g	-ment	0r	.
 1e	m'y	1g	m'y	.	.
 =76	=76	=76	=76	=76	=76
 1.d	queurt	1.f	queurt	0r	.
@@ -354,11 +354,11 @@
 .	.	4e/	.	4g/	.
 .	.	4d/	.	4f/	.
 =83	=83	=83	=83	=83	=83
-0r	.	1.c	.	1e	.
-.	.	.	.	1e	tel-
-.	.	2d/	tel-	.	.
+0r	.	1.c	tel-	1e	tel-
+.	.	.	.	1e	-le-
+.	.	2d/	-le-	.	.
 =84	=84	=84	=84	=84	=84
-0r	.	1.e	-lement	1g	-lement
+0r	.	1.e	-ment	1g	-ment
 .	.	.	.	1a	m'y
 .	.	4d/	m'y	.	.
 .	.	4c/	.	.	.
