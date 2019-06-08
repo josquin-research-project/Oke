@@ -304,8 +304,8 @@
 1c	.	1F	si	1a	si
 =41	=41	=41	=41	=41	=41
 2r	.	1c	fort	1a	fort
-1F	si	.	.	.	ha-
-.	.	0d	ha-	2f/	.
+1F	si	.	.	.	.
+.	.	0d	ha-	2f/	ha-
 2.G/	fort	.	.	1b-	-y-
 4F/	.	.	.	.	.
 2D/	.	.	.	2a/	.
@@ -712,7 +712,7 @@
 0D	suis	0F	suis	0a	suis
 1A	par-	1F	par-	1a	par-
 =96	=96	=96	=96	=96	=96
-2B-\	-sa	1E-i	-sa	1g	-sa
+2B-\	.	1E-i	.	1g	.
 2c\	.	.	.	.	.
 2d\	faul-	0D	faul-	1.f	faul-
 1B-	.	.	.	.	.
