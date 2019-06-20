@@ -77,18 +77,18 @@
 .	.	4A/	.	.	.
 2d\	la	4B-\	.	1g	.
 .	.	4c\	.	.	.
-2.c\	mor-	1A	la	.	.
+2.c\	mor-	1A	.	.	.
 .	.	.	.	2f/	la
 4d\	.	.	.	.	.
-1e	.	2G/	mor-	2g/	mor-
+1e	.	2G/	la	2g/	mor-
 .	.	2c\	.	2a/	.
 =10	=10	=10	=10	=10	=10
-2d\	-tel-	2B-\	-tel-	2g/	.
+2d\	-tel-	2B-\	mor-	2g/	.
 2c\	.	2c\	.	1cc	-tel-
-2.f\	-le	1d	-le e-	.	.
+2.f\	-le	1d	-tel-	.	.
 .	.	.	.	2b-\	-le e-
 4g\	.	.	.	.	.
-1a	.	2c\	.	2cc\	.
+1a	.	2c\	-le e-	2cc\	.
 .	.	2f\	.	2dd\	.
 =11	=11	=11	=11	=11	=11
 2r	.	2e\	-ne-	2cc\	-ne-
@@ -162,10 +162,10 @@
 2A/	.	.	.	.	.
 2F/	-le	.	.	1r	.
 2B-\	de	2d\	de	.	.
-2c\	.	2e\	.	1cc	de
+2c\	.	2e-i\	qui	1cc	de
 2A/	.	2c\	.	.	.
 =21	=21	=21	=21	=21	=21
-0B-	qui	1B-	qui	1.dd	qui
+0B-	qui	1B-	.	1.dd	qui
 .	.	2r	.	.	.
 .	.	2B-\	court	2cc\	.
 1G	.	2d\	.	2.b-\	.
@@ -302,10 +302,10 @@
 0d	vous	0B-i	vous	1a]	.
 .	.	.	.	1g	vous
 =46	=46	=46	=46	=46	=46
-0e	plaist	1A	.	0a	plaist
-.	.	1A	plaist	.	.
+0e	plaist	1A	plaist	0a	plaist
+.	.	1A	que	.	.
 =47	=47	=47	=47	=47	=47
-1f	.	0d	que	2b-i\	que
+1f	.	0d	.	2b-i\	que
 .	.	.	.	2a/	.
 1f	que	.	.	2g/	.
 .	.	.	.	2f/	.
@@ -425,8 +425,8 @@
 1B-	-que	1f	-que	1dd	-que
 1G	.	1g	.	1ee	.
 =73	=73	=73	=73	=73	=73
-0d	part	1a	part	1ff	.
-.	.	1f	que	[1dd	part
+0d	part	1a	part	1ff	part
+.	.	1f	que	[1dd	.
 =74	=74	=74	=74	=74	=74
 0A	que	0e	soy-	1dd]	.
 .	.	.	.	1cc	que
@@ -443,10 +443,10 @@
 0d	que	0B-i	que	1a]	.
 .	.	.	.	1g	que
 =79	=79	=79	=79	=79	=79
-0e	voys	1A	.	0a	voys
-.	.	1A	voys	.	.
+0e	voys	1A	voys	0a	voys
+.	.	1A	me	.	.
 =80	=80	=80	=80	=80	=80
-1f	.	0d	me	2b-i\	me
+1f	.	0d	.	2b-i\	me
 .	.	.	.	2a/	.
 1f	me	.	.	2g/	.
 .	.	.	.	2f/	.
@@ -609,18 +609,18 @@
 .	.	4A/	.	.	.
 2d\	pi-	4B-\	.	1g	.
 .	.	4c\	.	.	.
-2.c\	-ti&eacute;	1A	pi-	.	.
+2.c\	-ti&eacute;	1A	.	.	.
 .	.	.	.	2f/	pi-
 4d\	.	.	.	.	.
-1e	.	2G/	-ti&eacute;	2g/	-ti&eacute;
+1e	.	2G/	pi-	2g/	-ti&eacute;
 .	.	2c\	.	2a/	.
 =110	=110	=110	=110	=110	=110
-2d\	soit	2B-\	soit	2g/	.
+2d\	soit	2B-\	-ti&eacute;	2g/	.
 2c\	.	2c\	.	1cc	soit
-2.f\	en-	1d	en-	.	.
-.	.	.	.	2b-\	en-
+2.f\	en-	1d	soit	.	.
+.	.	.	.	2b-\	.
 4g\	.	.	.	.	.
-1a	.	2c\	.	2cc\	.
+1a	.	2c\	en-	2cc\	en-
 .	.	2f\	.	2dd\	.
 =111	=111	=111	=111	=111	=111
 2r	.	2e\	-dor-	2cc\	-dor-
@@ -651,15 +651,15 @@
 2r	.	2.c\	ma	.	.
 2g\	a-	.	.	1ee	-m&eacute;-
 .	.	4B-\	.	.	.
-2a\	m&eacute;	2A/	.	.	.
+2a\	.	2A/	.	.	.
 =115	=115	=115	=115	=115	=115
-1b-	fut	2G/	tant	2.gg\	.
+1b-	m&eacute;-	2G/	tant	2.gg\	.
 .	.	2.B-\	a-	.	.
 .	.	.	.	4ff\	.
 1g	.	.	.	1dd	.
 .	.	4A/	.	.	.
 .	.	2B-\	.	.	.
-2a\	.	2A/	-m&eacute;-	[1ee	-e
+2a\	-e	2A/	-m&eacute;-	[1ee	-e
 2b-\	.	2G/	.	.	.
 =116	=116	=116	=116	=116	=116
 1.cc	da-	2.A/	.	1ee]	.
@@ -694,7 +694,7 @@
 2A/	.	.	.	.	.
 2F/	est,	.	.	1r	.
 2B-\	si	2d\	si	.	.
-2c\	.	2e\	.	1cc	si
+2c\	.	2e-i\	.	1cc	si
 2A/	.	2c\	.	.	.
 =121	=121	=121	=121	=121	=121
 0B-	mal-	1B-	.	1.dd	mal-
@@ -881,18 +881,18 @@
 .	.	4A/	.	.	.
 2d\	la	4B-\	.	1g	.
 .	.	4c\	.	.	.
-2.c\	mor-	1A	la	.	.
+2.c\	mor-	1A	.	.	.
 .	.	.	.	2f/	la
 4d\	.	.	.	.	.
-1e	.	2G/	mor-	2g/	mor-
+1e	.	2G/	la	2g/	mor-
 .	.	2c\	.	2a/	.
 =144	=144	=144	=144	=144	=144
-2d\	-tel-	2B-\	-tel-	2g/	.
+2d\	-tel-	2B-\	mor-	2g/	.
 2c\	.	2c\	.	1cc	-tel-
-2.f\	-le	1d	-le e-	.	.
+2.f\	-le	1d	-tel-	.	.
 .	.	.	.	2b-\	-le e-
 4g\	.	.	.	.	.
-1a	.	2c\	.	2cc\	.
+1a	.	2c\	-le e-	2cc\	.
 .	.	2f\	.	2dd\	.
 =145	=145	=145	=145	=145	=145
 2r	.	2e\	-ne-	2cc\	-ne-
@@ -966,10 +966,10 @@
 2A/	.	.	.	.	.
 2F/	-le	.	.	1r	.
 2B-\	de	2d\	de	.	.
-2c\	.	2e\	.	1cc	de
+2c\	.	2e-i\	qui	1cc	de
 2A/	.	2c\	.	.	.
 =155	=155	=155	=155	=155	=155
-0B-	qui	1B-	qui	1.dd	qui
+0B-	qui	1B-	.	1.dd	qui
 .	.	2r	.	.	.
 .	.	2B-\	court	2cc\	.
 1G	.	2d\	.	2.b-\	.
