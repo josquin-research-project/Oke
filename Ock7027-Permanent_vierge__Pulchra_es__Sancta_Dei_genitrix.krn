@@ -384,7 +384,7 @@
 2F	-per-	0A	.	0D	-lem,	1r	.	1d	-nal
 2D	.	.	.	.	.	.	.	.	.
 1F	-nal	.	.	.	.	1A	of-	1r	.
-2E	of-	1G	-a,	1r	.	2B	.	1e	of-
+2E	of-	1G	.	1r	.	2B	.	1e	of-
 2C	.	.	.	.	.	2c	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 2D	-fi-	0.r	.	1.F	Jhe-	2A	.	2f	-fi-
@@ -395,11 +395,11 @@
 1GG	-ce,&	.	.	1D	-sa-	.	.	.	.
 .	.	.	.	.	.	2G	.	2B	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
-1rN	.	1GN	in-	0.CN	-lem:	2.E	.	0.cN	-ce,&
+1rN	.	1GN	-a,	0.CN	-lem:	2.E	.	0.cN	-ce,&
 .	.	.	.	.	.	4F	.	.	.
-2E	.	1G	-ter-	.	.	1GN	-ce,	.	.
+2E	.	1G	.	.	.	1GN	-ce,	.	.
 2C	.	.	.	.	.	.	.	.	.
-2.E	.	1G	-ce-	.	.	1r	.	.	.
+2.E	.	1G	.	.	.	1r	.	.	.
 4F	.	.	.	.	.	.	.	.	.
 !!LO:LB:g=z
 =	=	=	=	=	=	=	=	=	=
@@ -531,7 +531,7 @@
 2F	-leil	0A	.	0D	-lem,	1r	.	1d	-leil
 2D	.	.	.	.	.	.	.	.	.
 1F	de	.	.	.	.	1A	de	1r	.
-2E	jus-	1G	-a,	1r	.	2B	jus-	1e	de
+2E	jus-	1G	.	1r	.	2B	jus-	1e	de
 2C	.	.	.	.	.	2c	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 2D	-ti-	0.r	.	1.F	Jhe-	2A	.	2f	jus-
@@ -542,11 +542,11 @@
 1GG	-ce,	.	.	1D	-sa-	.	.	.	.
 .	.	.	.	.	.	2G	.	2B	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60
-1rN	.	1GN	in-	0.CN	-lem:	2.E	.	0.cN	-ce,
+1rN	.	1GN	-a,	0.CN	-lem:	2.E	.	0.cN	-ce,
 .	.	.	.	.	.	4F	.	.	.
-2E	Chief	1G	-ter-	.	.	1GN	-ce,	.	.
+2E	Chief	1G	.	.	.	1GN	-ce,	.	.
 2C	.	.	.	.	.	.	.	.	.
-2.E	.	1G	-ce-	.	.	1r	.	.	.
+2.E	.	1G	.	.	.	1r	.	.	.
 4F	.	.	.	.	.	.	.	.	.
 !!LO:LB:g=z
 =	=	=	=	=	=	=	=	=	=
