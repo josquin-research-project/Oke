@@ -1,10 +1,10 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Aultre Venus
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3001
-!!!SCA:	Ock3001
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Aultre Venus
+!!!AGN: Song; Chanson
+!!!SCT: Ock3001
+!!!SCA: Ock3001
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
@@ -68,13 +68,13 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2r	.	.	.	1G	-tre-	-re	a	1b-	-a-	droic-	-me-
 2B-\	-a-	droic-	a	.	.	.	.	.	.	.	.
-2c\	-tu-	-tu-	des-	2F/	-cre-	par	des-	2a/	-tu-	-tu-	-su-
+2c\	-tu-	-tu-	des-	2F/	-cre-	par	des-	2a/	.	.	.
 2d\	.	.	-me-	2D/	.	.	.	2f/	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2.B-\	.	.	-su-	1E-	-a-	droic-	-me-	2.g/	.	.	.
 8A/L	.	.	.	.	.	.	.	8f/L	.	.	.
 8G/J	.	.	.	.	.	.	.	8g/J	.	.	.
-2F/	.	.	.	1F	-tu-	-tu-	-su-	1a	.	.	.
+2F/	.	.	.	1F	.	.	.	1a	.	.	.
 2A/	.	.	.	.	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2B-\	.	.	.	2D/	.	.	.	2f/	.	.	.
@@ -86,27 +86,27 @@
 .	.	.	.	.	.	.	.	4c/	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2B-\	.	.	.	2E-/	.	.	.	1g	.	.	.
-2d\	.	.	.	2B-\	.	.	.	.	.	.	.
-2c\	.	.	.	2A/	.	.	.	2f/	.	.	.
+2d\	-tu-	-tu-	-su-	2B-\	-tu-	-tu-	-su-	.	.	.	.
+2c\	.	.	.	2A/	.	.	.	2f/	-tu-	-tu-	-su-
 [2B-\	.	.	.	[2G/	.	.	.	[2e-/	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2B-\]	.	.	.	2G/]	.	.	.	2e-/]	.	.	.
 2A/	.	.	.	2F/	.	.	.	1d	.	.	.
-2.G/	.	.	.	1E-	.	.	.	.	.	.	.
+2.G/	.	.	.	1E-	-re,	-re,	.	.	.	.	.
 .	.	.	.	.	.	.	.	2c/	.	.	.
 4A/	.	.	.	.	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 4B-\	.	.	.	2r	.	.	.	0d;	-re;	-re:	-re,
 4c\	.	.	.	.	.	.	.	.	.	.	.
-1d	.	.	.	2D;/	-(re;)	-re:	.	.	.	.	.
-.	.	.	.	2.F/	.	&	.	.	.	.	.
+1d	.	.	.	2D;/	-(cre-)	.	des-	.	.	.	.
+.	.	.	.	2.F/	-a-	.	.	.	.	.	.
 2B-\	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	4G/	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2A;/	-(re;)	-re:	.	2A/	.	.	.	0r	.	.	.
 2G/	.	&	.	2B-\	.	.	.	.	.	.	.
-2F/	.	.	.	2A/	.	.	.	.	.	.	.
-[2G/	.	.	.	[2B-\	.	.	.	.	.	.	.
+2F/	.	.	.	2A/	.	.	-me-	.	.	.	.
+[2G/	.	.	.	[2B-\	-tu-	.	-su-	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 *	*	*	*	*	*	*	*	*k[b-]	*	*	*
 2G/]	.	.	.	2B-\]	.	.	.	1g	De	&	Main-
@@ -159,20 +159,20 @@
 .	.	.	.	.	.	.	.	1r	.	.	.
 2F/	.	.	.	2A/	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-1c	-re	.	-re,	1A	-re	.	-re,	1f	La	.	Se
-2d\	La	.	Se	2.B-\	La	.	Se	1g	sem-	.	le
+1c	-re	.	-re,	1A	.	.	.	1f	La	.	Se
+2d\	La	.	Se	2.B-\	.	.	.	1g	sem-	.	le
 2c\	sem-	.	le	.	.	.	.	.	.	.	.
 .	.	.	.	4A/	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-2.f\	-blez	.	til-	1F	.	.	.	0a	-blez	.	til-
+2.f\	-blez	.	til-	1F	-re	.	-re,	0a	-blez	.	til-
 8e\L	.	.	.	.	.	.	.	.	.	.	.
 8d\J	.	.	.	.	.	.	.	.	.	.	.
 1c	.	.	.	1r	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-0F	.	.	-tre	2c\	sem-	.	le	1a	et	.	-tre
-.	.	.	.	2d\	.	.	.	.	.	.	.
-.	.	.	.	2c\	-blez	.	til-	1a	de	.	tel
-.	.	.	.	[2f\	.	.	.	.	.	.	.
+0F	.	.	-tre	2c\	La	.	Se	1a	et	.	-tre
+.	.	.	.	2d\	.	.	le	.	.	.	.
+.	.	.	.	2c\	sem-	.	til-	1a	de	.	tel
+.	.	.	.	[2f\	-blez	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 2r	.	.	.	2f\]	.	.	.	1a	mes-	.	ne
 1f	et	.	tel	2F/	et	.	-tre	.	.	.	.
@@ -210,9 +210,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 06-13-2012
-!!!END:	2015/10/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/10/31/
-!!!ONB:	Translated from MusicXML and edited on 2015/10/31/ by Craig Sapp
+!!!ENC: Chris Gage 06-13-2012
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/31/
+!!!ONB: Translated from MusicXML and edited on 2015/10/31/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v100,100,120Q16z18c66l2600
