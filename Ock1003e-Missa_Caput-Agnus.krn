@@ -1,12 +1,12 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Caput
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Ock1003e
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Caput
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Ock1003e
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -848,9 +848,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 14/03/2012
-!!!END:	2012/03/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/03/17/
-!!!ONB:	Translated from MusicXML and edited on 2012/03/17/ by Craig Sapp
+!!!ENC: Will Watson 14/03/2012
+!!!END: 2012/03/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/17/
+!!!ONB: Translated from MusicXML and edited on 2012/03/17/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16

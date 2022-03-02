@@ -1,10 +1,10 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Presque transi
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3016
-!!!SCA:	Ock3016
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Presque transi
+!!!AGN: Song; Chanson
+!!!SCT: Ock3016
+!!!SCA: Ock3016
+!!!voices: 3
 **kern	**text	**kern	**text	**kern	**text
 *thru	*thru	*thru	*thru	*thru	*thru
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -211,7 +211,7 @@
 =32||	=32||	=32||	=32||	=32||	=32||
 *clefF4	*	*clefGv2	*	*clefG2	*
 !!section: Helas, je suis
-!!!OMD:	Helas, je suis
+!!!OMD: Helas, je suis
 0A	He-	1.c	He-	0e	He-
 .	.	.	.	.	.
 .	.	2A/	.	.	.
@@ -319,19 +319,19 @@
 =51	=51	=51	=51	=51	=51
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin (8/16/2012)
-!!!END:	2015/11/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/11/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/16/2012)
+!!!END: 2015/11/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/11/05/
+!!!ONB: Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v100,100,120Q16z18c72l2600
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Presque transi
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3016
-!!!SCA:	Ock3016
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Presque transi
+!!!AGN: Song; Chanson
+!!!SCT: Ock3016
+!!!SCA: Ock3016
+!!!voices: 3
 *thru	*thru	*thru	*thru	*thru	*thru
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -339,7 +339,7 @@
 *I'T	*	*I'C	*	*I'D	*
 *clefF4	*	*clefGv2	*	*clefG2	*
 !!section: Helas, je suis
-!!!OMD:	Helas, je suis
+!!!OMD: Helas, je suis
 0A	Mo-	1.c	Mo-	0e	Mo-
 .	.	.	.	.	.
 .	.	2A/	.	.	.
@@ -461,19 +461,19 @@
 =||	=||	=||	=||	=||	=||
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin (8/16/2012)
-!!!END:	2015/11/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/11/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/16/2012)
+!!!END: 2015/11/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/11/05/
+!!!ONB: Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v100,100,120Q16z18c72l2600
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Presque transi
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3016
-!!!SCA:	Ock3016
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Presque transi
+!!!AGN: Song; Chanson
+!!!SCT: Ock3016
+!!!SCA: Ock3016
+!!!voices: 3
 *thru	*thru	*thru	*thru	*thru	*thru
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -677,19 +677,19 @@
 =	=	=	=	=	=
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin (8/16/2012)
-!!!END:	2015/11/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/11/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/16/2012)
+!!!END: 2015/11/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/11/05/
+!!!ONB: Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v100,100,120Q16z18c72l2600
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Presque transi
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3016
-!!!SCA:	Ock3016
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Presque transi
+!!!AGN: Song; Chanson
+!!!SCT: Ock3016
+!!!SCA: Ock3016
+!!!voices: 3
 *thru	*thru	*thru	*thru	*thru	*thru
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -894,9 +894,9 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin (8/16/2012)
-!!!END:	2015/11/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/11/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/16/2012)
+!!!END: 2015/11/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/11/05/
+!!!ONB: Translated from MusicXML and edited on 2015/11/05/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v115,115,130Q16z18l2600c64

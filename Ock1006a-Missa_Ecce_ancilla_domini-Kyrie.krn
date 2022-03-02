@@ -1,12 +1,12 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Ecce ancilla domini
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	Ock1006a
-!!!SCA:	Ock1006a
-!!!voices:	4
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Ecce ancilla domini
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Ock1006a
+!!!SCA: Ock1006a
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -657,9 +657,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Will Watson 15/04/2012
-!!!END:	2015/12/06/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/12/07/
-!!!ONB:	Translated from MusicXML and edited on 2015/12/07/ by Craig Sapp
+!!!ENC: Will Watson 15/04/2012
+!!!END: 2015/12/06/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/12/07/
+!!!ONB: Translated from MusicXML and edited on 2015/12/07/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16c60

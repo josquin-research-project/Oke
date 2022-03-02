@@ -1,13 +1,13 @@
-!!!COM:	Johannes Ockeghem
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Au travail suis
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Ock1002c
-!!!SCA:	Ock1002c
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Johannes Ockeghem
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Au travail suis
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Ock1002c
+!!!SCA: Ock1002c
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -987,9 +987,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8-17-2012
-!!!END:	2012/08/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/17/
-!!!ONB:	Translated from MusicXML and edited on 2012/08/17/ by Craig Sapp
+!!!ENC: Jesse Rodin 8-17-2012
+!!!END: 2012/08/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/17/
+!!!ONB: Translated from MusicXML and edited on 2012/08/17/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

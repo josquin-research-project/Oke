@@ -1,12 +1,12 @@
-!!!COA1:	Ockeghem, Johannes
-!!!COA2:	Martini, Johannes
-!!!COA3:	Malcort
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Malheur me bat
-!!!AGN:	Chanson
-!!!SCT:	Ock3026
-!!!SCA:	Ock3026
-!!!voices:	3
+!!!COA1: Ockeghem, Johannes
+!!!COA2: Martini, Johannes
+!!!COA3: Malcort
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Malheur me bat
+!!!AGN: Chanson
+!!!SCT: Ock3026
+!!!SCA: Ock3026
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -342,11 +342,11 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 06-26-2012
-!!!END:	2012/08/10/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/04/27/
+!!!ENC: Chris Gage 06-26-2012
+!!!END: 2012/08/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/04/27/
 !!attribution-level@Ock: 4 (doubtful)
 !!attribution-level@Mar: 4 (doubtful)
-!!!ONB:	Translated from MusicXML and edited on 2012/08/13/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/13/ by Craig Sapp
 !!muse2ps: C^Malcort/Ockeghem?/Martini?^i2I150v95,95,150Q16c105

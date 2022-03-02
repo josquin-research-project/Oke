@@ -1,10 +1,10 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	D'ung aultre amer
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3003
-!!!SCA:	Ock3003
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: D'ung aultre amer
+!!!AGN: Song; Chanson
+!!!SCT: Ock3003
+!!!SCA: Ock3003
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
@@ -194,9 +194,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Jesse Rodin (8/16/2012)
-!!!END:	2017/03/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2017/03/16/
-!!!ONB:	Translated from MusicXML and edited on 2017/03/16/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/16/2012)
+!!!END: 2017/03/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2017/03/16/
+!!!ONB: Translated from MusicXML and edited on 2017/03/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v100,100,140Q16z18c57l2600

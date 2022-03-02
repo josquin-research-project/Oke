@@ -1,10 +1,10 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Ma maistresse
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3012
-!!!SCA:	Ock3012
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ma maistresse
+!!!AGN: Song; Chanson
+!!!SCT: Ock3012
+!!!SCA: Ock3012
+!!!voices: 3
 **kern	**text	**text	**kern	**text	**text	**kern	**text	**text
 *staff3	*	*	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
 *Ivox	*	*	*Ivox	*	*	*Ivox	*	*
@@ -384,9 +384,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 06-25-2012
-!!!END:	2015/10/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/10/31/
-!!!ONB:	Translated from MusicXML and edited on 2015/10/31/ by Craig Sapp
+!!!ENC: Chris Gage 06-25-2012
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/31/
+!!!ONB: Translated from MusicXML and edited on 2015/10/31/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v100,100,120Q16z18c62l2600

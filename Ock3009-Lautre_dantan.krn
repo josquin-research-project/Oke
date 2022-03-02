@@ -1,10 +1,10 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	L'autre d'antan
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3009
-!!!SCA:	Ock3009
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: L'autre d'antan
+!!!AGN: Song; Chanson
+!!!SCT: Ock3009
+!!!SCA: Ock3009
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
@@ -179,9 +179,9 @@
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
 !!!RDF**kern: N = signum congruentiae
-!!!ENC:	Jesse Rodin 18 April 2018
-!!!END:	2018/04/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/07/23/
-!!!ONB:	Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!!ENC: Jesse Rodin 18 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
 !!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v105,105,110z18l2650c180

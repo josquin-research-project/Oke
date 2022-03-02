@@ -1,10 +1,10 @@
-!!!COM:	Johannes Ockeghem
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Intemerata dei mater
-!!!AGN:	Motet
-!!!SCT:	Ock2003
-!!!SCA:	Ock2003
-!!!voices:	5
+!!!COM: Johannes Ockeghem
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Intemerata dei mater
+!!!AGN: Motet
+!!!SCT: Ock2003
+!!!SCA: Ock2003
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -878,9 +878,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8-16-2012
-!!!END:	2012/08/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/16/
-!!!ONB:	Translated from MusicXML and edited on 2012/08/16/ by Craig Sapp
+!!!ENC: Jesse Rodin 8-16-2012
+!!!END: 2012/08/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/16/
+!!!ONB: Translated from MusicXML and edited on 2012/08/16/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v75,75,75,75,110c122z18l2780t100

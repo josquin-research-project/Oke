@@ -1,10 +1,10 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OTL:	Tant fuz gentement
-!!!AGN:	Song; Chanson
-!!!SCT:	Ock3021
-!!!SCA:	Ock3021
-!!!voices:	3
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Tant fuz gentement
+!!!AGN: Song; Chanson
+!!!SCT: Ock3021
+!!!SCA: Ock3021
+!!!voices: 3
 **kern	**text	**text	**kern	**text	**text	**kern	**text	**text
 *staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
 *Ivox	*	*	*Ivox	*	*	*Ivox	*	*
@@ -252,9 +252,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 06-25-2012
-!!!END:	2017/03/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2017/03/16/
-!!!ONB:	Translated from MusicXML and edited on 2017/03/16/ by Craig Sapp
+!!!ENC: Chris Gage 06-25-2012
+!!!END: 2017/03/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2017/03/16/
+!!!ONB: Translated from MusicXML and edited on 2017/03/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i1I0v95,95,150Q16z18c65l2600

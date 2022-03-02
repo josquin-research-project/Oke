@@ -1,13 +1,13 @@
-!!!COM:	Johannes Ockeghem
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Cuiusvis toni (on E)
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Ock1004.2d
-!!!SCA:	Ock1004.2d
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Johannes Ockeghem
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Cuiusvis toni (on E)
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Ock1004.2d
+!!!SCA: Ock1004.2d
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -729,9 +729,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8-24-2012
-!!!END:	2012/08/24/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/28/
-!!!ONB:	Translated from MusicXML and edited on 2012/08/28/ by Craig Sapp
+!!!ENC: Jesse Rodin 8-24-2012
+!!!END: 2012/08/24/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/28/
+!!!ONB: Translated from MusicXML and edited on 2012/08/28/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

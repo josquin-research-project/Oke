@@ -1,12 +1,12 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Ecce ancilla domini
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Ock1006e
-!!!SCA:	Ock1006e
-!!!voices:	4
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Ecce ancilla domini
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Ock1006e
+!!!SCA: Ock1006e
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -604,9 +604,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 12/09/2012
-!!!END:	2015/12/06/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/12/07/
-!!!ONB:	Translated from MusicXML and edited on 2015/12/07/ by Craig Sapp
+!!!ENC: Will Watson 12/09/2012
+!!!END: 2015/12/06/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/12/07/
+!!!ONB: Translated from MusicXML and edited on 2015/12/07/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

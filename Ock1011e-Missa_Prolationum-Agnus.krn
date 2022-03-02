@@ -1,13 +1,13 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Prolationum
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Ock1011e
-!!!SCA:	Ock1011e
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Prolationum
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Ock1011e
+!!!SCA: Ock1011e
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -741,9 +741,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 08-20-2012
-!!!END:	2014/05/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/05/14/
-!!!ONB:	Translated from MusicXML and edited on 2014/05/14/ by Craig Sapp
+!!!ENC: Chris Gage 08-20-2012
+!!!END: 2014/05/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/05/14/
+!!!ONB: Translated from MusicXML and edited on 2014/05/14/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,130c150

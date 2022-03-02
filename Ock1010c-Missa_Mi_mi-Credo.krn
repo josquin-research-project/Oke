@@ -1,12 +1,12 @@
-!!!COM:	Ockeghem, Johannes
-!!!CDT:	~1425-1497/02/06
-!!!OPR:	Missa Mi mi
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Ock1010c
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Mi mi
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Ock1010c
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1373,9 +1373,9 @@
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: %=rational rhythm
 !!!rscale-alt: 1/2
-!!!ENC:	Will Watson 22/1/2012
-!!!END:	2012/01/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/03/13/
-!!!ONB:	Translated from MusicXML and edited on 2012/03/13/ by Craig Sapp
+!!!ENC: Will Watson 22/1/2012
+!!!END: 2012/01/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/13/
+!!!ONB: Translated from MusicXML and edited on 2012/03/13/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16
