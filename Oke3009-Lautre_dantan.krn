@@ -15,9 +15,9 @@
 *k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
 *M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
 *met(O3)	*	*	*	*met(O3)	*	*	*	*met(O3)	*	*	*
-!LO:TX:Z=6:t=Form&colon; rondeau	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:Z=42:t=Mensuration&colon; O3 (other sources give Cut-O3 and Cut-C3)	!	!	!	!	!	!	!	!	!	!	!
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:X=-34:Z=12:t=Form&colon; rondeau
+!!LO:TX:X=-34:Z=32:t=Mensuration&colon; O3 (other sources give Cut-O3 and Cut-C3)
 1.D	L'au-	Par	Puis	0.r	.	.	.	0.r	.	.	.
 2E	-tre	tel	a-	.	.	.	.	.	.	.	.
 1F	d'an-	fa-	-pr&egrave;s	.	.	.	.	.	.	.	.
